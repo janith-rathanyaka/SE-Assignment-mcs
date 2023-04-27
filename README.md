@@ -1,7 +1,7 @@
 # SE-Assignment-mcs
 
-# install
+# install application
   npm install
 
-#Run application
+# run application
  npm start
